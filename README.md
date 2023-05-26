@@ -1,4 +1,4 @@
-# Personalized-license-plates-for-fivem.-
+# Personalized-license-plates-for-fivem.
 
 - El script fue modificado para que funcione ya que el original no funcionaba para mi.  
 
