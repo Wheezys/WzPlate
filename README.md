@@ -1,6 +1,6 @@
 # Personalized-license-plates-for-fivem.
 
--EN
+- EN
 
 - The script was modified to work since the original one didn't work for me.
 
@@ -21,7 +21,7 @@
 
 
 
-ES
+- ES
 
 - Se modificó el script para que funcionara ya que el original no me funcionaba.
 
